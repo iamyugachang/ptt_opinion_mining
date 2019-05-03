@@ -1,0 +1,8 @@
+simplejson
+scrapy
+bs4
+scrapy
+selenium
+pyprind
+requests
+ngram
