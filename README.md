@@ -1,5 +1,6 @@
 # ptt_opinion_mining
-2019 Spring assignment for Social Network
+2019 Spring assignment for Social Network in NCHU
+
 # An Opinion Mining project on Taiwan PTT forum
 Tools or techniques require the following:
 * web crawler
